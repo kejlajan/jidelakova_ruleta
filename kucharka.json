@@ -1,0 +1,35 @@
+{
+    "jidla": [
+        {
+            "svickova": {
+                "surky": [
+                    "hovezi",
+                    "smetana",
+                    "celer",
+                    "mrkev",
+                    "cibule"
+                ],
+                "postup": "Nakrajime surky, hodime je do hrnce a tak uvarime svickajdu, nebo ne, ja nevim"
+            }
+        },
+        {
+            "koprovka": {
+                "surky": [
+                    "vejce",
+                    "kopr",
+                    "cibule"
+                ],
+                "postup": "Nakrajime surky, hodime je do hrnce a tak uvarime kopracku, nebo ne, ja nevim"
+            }
+        },
+        {
+            "parky": {
+                "surky": [
+                    "parky",
+                    "chleba"
+                ],
+                "postup": "Nakrajime chleba, parky hodime do hrnce a za pet minut je hotovo, podavame s kecupem"
+            }
+        }
+    ]
+}
