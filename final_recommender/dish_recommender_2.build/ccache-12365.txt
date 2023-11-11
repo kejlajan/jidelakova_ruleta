@@ -1,0 +1,521 @@
+[2023-11-11T19:17:03.805522 12376] === CCACHE 4.5.1 STARTED =========================================
+[2023-11-11T19:17:03.805522 12376] Config: (default) absolute_paths_in_stderr = false
+[2023-11-11T19:17:03.805522 12376] Config: (default) base_dir = 
+[2023-11-11T19:17:03.805522 12376] Config: (environment) cache_dir = /home/jan/.cache/Nuitka/ccache
+[2023-11-11T19:17:03.805522 12376] Config: (default) compiler = 
+[2023-11-11T19:17:03.805522 12376] Config: (default) compiler_check = mtime
+[2023-11-11T19:17:03.805522 12376] Config: (default) compiler_type = auto
+[2023-11-11T19:17:03.805522 12376] Config: (default) compression = true
+[2023-11-11T19:17:03.805522 12376] Config: (default) compression_level = 0
+[2023-11-11T19:17:03.805522 12376] Config: (default) cpp_extension = 
+[2023-11-11T19:17:03.805522 12376] Config: (default) debug = false
+[2023-11-11T19:17:03.805522 12376] Config: (default) debug_dir = 
+[2023-11-11T19:17:03.805522 12376] Config: (default) depend_mode = false
+[2023-11-11T19:17:03.805522 12376] Config: (default) direct_mode = true
+[2023-11-11T19:17:03.805522 12376] Config: (default) disable = false
+[2023-11-11T19:17:03.805522 12376] Config: (default) extra_files_to_hash = 
+[2023-11-11T19:17:03.805522 12376] Config: (default) file_clone = false
+[2023-11-11T19:17:03.805522 12376] Config: (default) hard_link = false
+[2023-11-11T19:17:03.805522 12376] Config: (default) hash_dir = true
+[2023-11-11T19:17:03.805522 12376] Config: (default) ignore_headers_in_manifest = 
+[2023-11-11T19:17:03.805522 12376] Config: (default) ignore_options = 
+[2023-11-11T19:17:03.805522 12376] Config: (default) inode_cache = false
+[2023-11-11T19:17:03.805522 12376] Config: (default) keep_comments_cpp = false
+[2023-11-11T19:17:03.805522 12376] Config: (default) limit_multiple = 0.8
+[2023-11-11T19:17:03.805522 12376] Config: (environment) log_file = /home/jan/Plocha/freetime_scripts/jidelakova_ruleta/final_recommender/dish_recommender_2.build/ccache-12365.txt
+[2023-11-11T19:17:03.805522 12376] Config: (default) max_files = 0
+[2023-11-11T19:17:03.805522 12376] Config: (default) max_size = 5.0G
+[2023-11-11T19:17:03.805522 12376] Config: (default) namespace = 
+[2023-11-11T19:17:03.805522 12376] Config: (default) path = 
+[2023-11-11T19:17:03.805522 12376] Config: (default) pch_external_checksum = false
+[2023-11-11T19:17:03.805522 12376] Config: (default) prefix_command = 
+[2023-11-11T19:17:03.805522 12376] Config: (default) prefix_command_cpp = 
+[2023-11-11T19:17:03.805522 12376] Config: (default) read_only = false
+[2023-11-11T19:17:03.805522 12376] Config: (default) read_only_direct = false
+[2023-11-11T19:17:03.805522 12376] Config: (default) recache = false
+[2023-11-11T19:17:03.805522 12376] Config: (default) reshare = false
+[2023-11-11T19:17:03.805522 12376] Config: (default) run_second_cpp = true
+[2023-11-11T19:17:03.805522 12376] Config: (default) secondary_storage = 
+[2023-11-11T19:17:03.805522 12376] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-11-11T19:17:03.805522 12376] Config: (default) stats = true
+[2023-11-11T19:17:03.805522 12376] Config: (default) stats_log = 
+[2023-11-11T19:17:03.805522 12376] Config: (default) temporary_dir = /run/user/1000/ccache-tmp
+[2023-11-11T19:17:03.805522 12376] Config: (default) umask = 
+[2023-11-11T19:17:03.805608 12376] Command line: /usr/bin/ccache /home/jan/anaconda3/bin/x86_64-conda-linux-gnu-cc -o __constants.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jan/anaconda3/include -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jan/anaconda3/include -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -DNUITKA_FILE_REFERENCE_ORIGINAL_MODE -I/home/jan/anaconda3/include/python3.9 -I. -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/include -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/static_src __constants.c
+[2023-11-11T19:17:03.805620 12376] Hostname: srot
+[2023-11-11T19:17:03.805623 12376] Working directory: /home/jan/Plocha/freetime_scripts/jidelakova_ruleta/final_recommender/dish_recommender_2.build
+[2023-11-11T19:17:03.805626 12376] Compiler type: gcc
+[2023-11-11T19:17:03.805718 12376] Source file: __constants.c
+[2023-11-11T19:17:03.805724 12376] Object file: __constants.o
+[2023-11-11T19:17:03.805748 12376] Trying direct lookup
+[2023-11-11T19:17:03.805803 12376] No 5f803s0i6hjlgrk0hhk0heiki4edcuiv0 in primary storage
+[2023-11-11T19:17:03.805881 12376] Running preprocessor
+[2023-11-11T19:17:03.805890 12376] Executing /home/jan/anaconda3/bin/x86_64-conda-linux-gnu-cc -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -O2 -isystem /home/jan/anaconda3/include -DNDEBUG -D_FORTIFY_SOURCE=2 -isystem /home/jan/anaconda3/include -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -DNUITKA_FILE_REFERENCE_ORIGINAL_MODE -I/home/jan/anaconda3/include/python3.9 -I. -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/include -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/static_src -E __constants.c
+[2023-11-11T19:17:03.817048 12380] === CCACHE 4.5.1 STARTED =========================================
+[2023-11-11T19:17:03.817048 12380] Config: (default) absolute_paths_in_stderr = false
+[2023-11-11T19:17:03.817048 12380] Config: (default) base_dir = 
+[2023-11-11T19:17:03.817048 12380] Config: (environment) cache_dir = /home/jan/.cache/Nuitka/ccache
+[2023-11-11T19:17:03.817048 12380] Config: (default) compiler = 
+[2023-11-11T19:17:03.817048 12380] Config: (default) compiler_check = mtime
+[2023-11-11T19:17:03.817048 12380] Config: (default) compiler_type = auto
+[2023-11-11T19:17:03.817048 12380] Config: (default) compression = true
+[2023-11-11T19:17:03.817048 12380] Config: (default) compression_level = 0
+[2023-11-11T19:17:03.817048 12380] Config: (default) cpp_extension = 
+[2023-11-11T19:17:03.817048 12380] Config: (default) debug = false
+[2023-11-11T19:17:03.817048 12380] Config: (default) debug_dir = 
+[2023-11-11T19:17:03.817048 12380] Config: (default) depend_mode = false
+[2023-11-11T19:17:03.817048 12380] Config: (default) direct_mode = true
+[2023-11-11T19:17:03.817048 12380] Config: (environment) disable = true
+[2023-11-11T19:17:03.817048 12380] Config: (default) extra_files_to_hash = 
+[2023-11-11T19:17:03.817048 12380] Config: (default) file_clone = false
+[2023-11-11T19:17:03.817048 12380] Config: (default) hard_link = false
+[2023-11-11T19:17:03.817048 12380] Config: (default) hash_dir = true
+[2023-11-11T19:17:03.817048 12380] Config: (default) ignore_headers_in_manifest = 
+[2023-11-11T19:17:03.817048 12380] Config: (default) ignore_options = 
+[2023-11-11T19:17:03.817048 12380] Config: (default) inode_cache = false
+[2023-11-11T19:17:03.817048 12380] Config: (default) keep_comments_cpp = false
+[2023-11-11T19:17:03.817048 12380] Config: (default) limit_multiple = 0.8
+[2023-11-11T19:17:03.817048 12380] Config: (environment) log_file = /home/jan/Plocha/freetime_scripts/jidelakova_ruleta/final_recommender/dish_recommender_2.build/ccache-12365.txt
+[2023-11-11T19:17:03.817048 12380] Config: (default) max_files = 0
+[2023-11-11T19:17:03.817048 12380] Config: (default) max_size = 5.0G
+[2023-11-11T19:17:03.817048 12380] Config: (default) namespace = 
+[2023-11-11T19:17:03.817048 12380] Config: (default) path = 
+[2023-11-11T19:17:03.817048 12380] Config: (default) pch_external_checksum = false
+[2023-11-11T19:17:03.817048 12380] Config: (default) prefix_command = 
+[2023-11-11T19:17:03.817048 12380] Config: (default) prefix_command_cpp = 
+[2023-11-11T19:17:03.817048 12380] Config: (default) read_only = false
+[2023-11-11T19:17:03.817048 12380] Config: (default) read_only_direct = false
+[2023-11-11T19:17:03.817048 12380] Config: (default) recache = false
+[2023-11-11T19:17:03.817048 12380] Config: (default) reshare = false
+[2023-11-11T19:17:03.817048 12380] Config: (default) run_second_cpp = true
+[2023-11-11T19:17:03.817048 12380] Config: (default) secondary_storage = 
+[2023-11-11T19:17:03.817048 12380] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-11-11T19:17:03.817048 12380] Config: (default) stats = true
+[2023-11-11T19:17:03.817048 12380] Config: (default) stats_log = 
+[2023-11-11T19:17:03.817048 12380] Config: (default) temporary_dir = /run/user/1000/ccache-tmp
+[2023-11-11T19:17:03.817048 12380] Config: (default) umask = 
+[2023-11-11T19:17:03.817105 12380] ccache is disabled
+[2023-11-11T19:17:03.817117 12380] Failed; falling back to running the real compiler
+[2023-11-11T19:17:03.817123 12380] Executing /home/jan/anaconda3/bin/x86_64-conda-linux-gnu-cc -o __constants_data.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jan/anaconda3/include -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jan/anaconda3/include -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -DNUITKA_FILE_REFERENCE_ORIGINAL_MODE -I/home/jan/anaconda3/include/python3.9 -I. -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/include -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/static_src __constants_data.c
+[2023-11-11T19:17:03.817126 12380] Result: disabled
+[2023-11-11T19:17:03.821333 12383] === CCACHE 4.5.1 STARTED =========================================
+[2023-11-11T19:17:03.821333 12383] Config: (default) absolute_paths_in_stderr = false
+[2023-11-11T19:17:03.821333 12383] Config: (default) base_dir = 
+[2023-11-11T19:17:03.821333 12383] Config: (environment) cache_dir = /home/jan/.cache/Nuitka/ccache
+[2023-11-11T19:17:03.821333 12383] Config: (default) compiler = 
+[2023-11-11T19:17:03.821333 12383] Config: (default) compiler_check = mtime
+[2023-11-11T19:17:03.821333 12383] Config: (default) compiler_type = auto
+[2023-11-11T19:17:03.821333 12383] Config: (default) compression = true
+[2023-11-11T19:17:03.821333 12383] Config: (default) compression_level = 0
+[2023-11-11T19:17:03.821333 12383] Config: (default) cpp_extension = 
+[2023-11-11T19:17:03.821333 12383] Config: (default) debug = false
+[2023-11-11T19:17:03.821333 12383] Config: (default) debug_dir = 
+[2023-11-11T19:17:03.821333 12383] Config: (default) depend_mode = false
+[2023-11-11T19:17:03.821333 12383] Config: (default) direct_mode = true
+[2023-11-11T19:17:03.821333 12383] Config: (default) disable = false
+[2023-11-11T19:17:03.821333 12383] Config: (default) extra_files_to_hash = 
+[2023-11-11T19:17:03.821333 12383] Config: (default) file_clone = false
+[2023-11-11T19:17:03.821333 12383] Config: (default) hard_link = false
+[2023-11-11T19:17:03.821333 12383] Config: (default) hash_dir = true
+[2023-11-11T19:17:03.821333 12383] Config: (default) ignore_headers_in_manifest = 
+[2023-11-11T19:17:03.821333 12383] Config: (default) ignore_options = 
+[2023-11-11T19:17:03.821333 12383] Config: (default) inode_cache = false
+[2023-11-11T19:17:03.821333 12383] Config: (default) keep_comments_cpp = false
+[2023-11-11T19:17:03.821333 12383] Config: (default) limit_multiple = 0.8
+[2023-11-11T19:17:03.821333 12383] Config: (environment) log_file = /home/jan/Plocha/freetime_scripts/jidelakova_ruleta/final_recommender/dish_recommender_2.build/ccache-12365.txt
+[2023-11-11T19:17:03.821333 12383] Config: (default) max_files = 0
+[2023-11-11T19:17:03.821333 12383] Config: (default) max_size = 5.0G
+[2023-11-11T19:17:03.821333 12383] Config: (default) namespace = 
+[2023-11-11T19:17:03.821333 12383] Config: (default) path = 
+[2023-11-11T19:17:03.821333 12383] Config: (default) pch_external_checksum = false
+[2023-11-11T19:17:03.821333 12383] Config: (default) prefix_command = 
+[2023-11-11T19:17:03.821333 12383] Config: (default) prefix_command_cpp = 
+[2023-11-11T19:17:03.821333 12383] Config: (default) read_only = false
+[2023-11-11T19:17:03.821333 12383] Config: (default) read_only_direct = false
+[2023-11-11T19:17:03.821333 12383] Config: (default) recache = false
+[2023-11-11T19:17:03.821333 12383] Config: (default) reshare = false
+[2023-11-11T19:17:03.821333 12383] Config: (default) run_second_cpp = true
+[2023-11-11T19:17:03.821333 12383] Config: (default) secondary_storage = 
+[2023-11-11T19:17:03.821333 12383] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-11-11T19:17:03.821333 12383] Config: (default) stats = true
+[2023-11-11T19:17:03.821333 12383] Config: (default) stats_log = 
+[2023-11-11T19:17:03.821333 12383] Config: (default) temporary_dir = /run/user/1000/ccache-tmp
+[2023-11-11T19:17:03.821333 12383] Config: (default) umask = 
+[2023-11-11T19:17:03.821392 12383] Command line: /usr/bin/ccache /home/jan/anaconda3/bin/x86_64-conda-linux-gnu-cc -o __helpers.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jan/anaconda3/include -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jan/anaconda3/include -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -DNUITKA_FILE_REFERENCE_ORIGINAL_MODE -I/home/jan/anaconda3/include/python3.9 -I. -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/include -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/static_src __helpers.c
+[2023-11-11T19:17:03.821403 12383] Hostname: srot
+[2023-11-11T19:17:03.821407 12383] Working directory: /home/jan/Plocha/freetime_scripts/jidelakova_ruleta/final_recommender/dish_recommender_2.build
+[2023-11-11T19:17:03.821409 12383] Compiler type: gcc
+[2023-11-11T19:17:03.821495 12383] Source file: __helpers.c
+[2023-11-11T19:17:03.821500 12383] Object file: __helpers.o
+[2023-11-11T19:17:03.821513 12383] Trying direct lookup
+[2023-11-11T19:17:03.821552 12383] No 7324n6l1rgonns93obtaaf25cdp5cpe3a in primary storage
+[2023-11-11T19:17:03.821608 12383] Running preprocessor
+[2023-11-11T19:17:03.821615 12383] Executing /home/jan/anaconda3/bin/x86_64-conda-linux-gnu-cc -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -O2 -isystem /home/jan/anaconda3/include -DNDEBUG -D_FORTIFY_SOURCE=2 -isystem /home/jan/anaconda3/include -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -DNUITKA_FILE_REFERENCE_ORIGINAL_MODE -I/home/jan/anaconda3/include/python3.9 -I. -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/include -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/static_src -E __helpers.c
+[2023-11-11T19:17:03.828067 12387] === CCACHE 4.5.1 STARTED =========================================
+[2023-11-11T19:17:03.828067 12387] Config: (default) absolute_paths_in_stderr = false
+[2023-11-11T19:17:03.828067 12387] Config: (default) base_dir = 
+[2023-11-11T19:17:03.828067 12387] Config: (environment) cache_dir = /home/jan/.cache/Nuitka/ccache
+[2023-11-11T19:17:03.828067 12387] Config: (default) compiler = 
+[2023-11-11T19:17:03.828067 12387] Config: (default) compiler_check = mtime
+[2023-11-11T19:17:03.828067 12387] Config: (default) compiler_type = auto
+[2023-11-11T19:17:03.828067 12387] Config: (default) compression = true
+[2023-11-11T19:17:03.828067 12387] Config: (default) compression_level = 0
+[2023-11-11T19:17:03.828067 12387] Config: (default) cpp_extension = 
+[2023-11-11T19:17:03.828067 12387] Config: (default) debug = false
+[2023-11-11T19:17:03.828067 12387] Config: (default) debug_dir = 
+[2023-11-11T19:17:03.828067 12387] Config: (default) depend_mode = false
+[2023-11-11T19:17:03.828067 12387] Config: (default) direct_mode = true
+[2023-11-11T19:17:03.828067 12387] Config: (default) disable = false
+[2023-11-11T19:17:03.828067 12387] Config: (default) extra_files_to_hash = 
+[2023-11-11T19:17:03.828067 12387] Config: (default) file_clone = false
+[2023-11-11T19:17:03.828067 12387] Config: (default) hard_link = false
+[2023-11-11T19:17:03.828067 12387] Config: (default) hash_dir = true
+[2023-11-11T19:17:03.828067 12387] Config: (default) ignore_headers_in_manifest = 
+[2023-11-11T19:17:03.828067 12387] Config: (default) ignore_options = 
+[2023-11-11T19:17:03.828067 12387] Config: (default) inode_cache = false
+[2023-11-11T19:17:03.828067 12387] Config: (default) keep_comments_cpp = false
+[2023-11-11T19:17:03.828067 12387] Config: (default) limit_multiple = 0.8
+[2023-11-11T19:17:03.828067 12387] Config: (environment) log_file = /home/jan/Plocha/freetime_scripts/jidelakova_ruleta/final_recommender/dish_recommender_2.build/ccache-12365.txt
+[2023-11-11T19:17:03.828067 12387] Config: (default) max_files = 0
+[2023-11-11T19:17:03.828067 12387] Config: (default) max_size = 5.0G
+[2023-11-11T19:17:03.828067 12387] Config: (default) namespace = 
+[2023-11-11T19:17:03.828067 12387] Config: (default) path = 
+[2023-11-11T19:17:03.828067 12387] Config: (default) pch_external_checksum = false
+[2023-11-11T19:17:03.828067 12387] Config: (default) prefix_command = 
+[2023-11-11T19:17:03.828067 12387] Config: (default) prefix_command_cpp = 
+[2023-11-11T19:17:03.828067 12387] Config: (default) read_only = false
+[2023-11-11T19:17:03.828067 12387] Config: (default) read_only_direct = false
+[2023-11-11T19:17:03.828067 12387] Config: (default) recache = false
+[2023-11-11T19:17:03.828067 12387] Config: (default) reshare = false
+[2023-11-11T19:17:03.828067 12387] Config: (default) run_second_cpp = true
+[2023-11-11T19:17:03.828067 12387] Config: (default) secondary_storage = 
+[2023-11-11T19:17:03.828067 12387] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-11-11T19:17:03.828067 12387] Config: (default) stats = true
+[2023-11-11T19:17:03.828067 12387] Config: (default) stats_log = 
+[2023-11-11T19:17:03.828067 12387] Config: (default) temporary_dir = /run/user/1000/ccache-tmp
+[2023-11-11T19:17:03.828067 12387] Config: (default) umask = 
+[2023-11-11T19:17:03.828123 12387] Command line: /usr/bin/ccache /home/jan/anaconda3/bin/x86_64-conda-linux-gnu-cc -o __loader.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jan/anaconda3/include -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jan/anaconda3/include -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -DNUITKA_FILE_REFERENCE_ORIGINAL_MODE -I/home/jan/anaconda3/include/python3.9 -I. -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/include -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/static_src __loader.c
+[2023-11-11T19:17:03.828134 12387] Hostname: srot
+[2023-11-11T19:17:03.828137 12387] Working directory: /home/jan/Plocha/freetime_scripts/jidelakova_ruleta/final_recommender/dish_recommender_2.build
+[2023-11-11T19:17:03.828140 12387] Compiler type: gcc
+[2023-11-11T19:17:03.828222 12387] Source file: __loader.c
+[2023-11-11T19:17:03.828226 12387] Object file: __loader.o
+[2023-11-11T19:17:03.828238 12387] Trying direct lookup
+[2023-11-11T19:17:03.828279 12387] No 02543hi61uqs8skok388iakb33r1ltv52 in primary storage
+[2023-11-11T19:17:03.828331 12387] Running preprocessor
+[2023-11-11T19:17:03.828338 12387] Executing /home/jan/anaconda3/bin/x86_64-conda-linux-gnu-cc -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -O2 -isystem /home/jan/anaconda3/include -DNDEBUG -D_FORTIFY_SOURCE=2 -isystem /home/jan/anaconda3/include -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -DNUITKA_FILE_REFERENCE_ORIGINAL_MODE -I/home/jan/anaconda3/include/python3.9 -I. -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/include -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/static_src -E __loader.c
+[2023-11-11T19:17:05.133669 12396] === CCACHE 4.5.1 STARTED =========================================
+[2023-11-11T19:17:05.133669 12396] Config: (default) absolute_paths_in_stderr = false
+[2023-11-11T19:17:05.133669 12396] Config: (default) base_dir = 
+[2023-11-11T19:17:05.133669 12396] Config: (environment) cache_dir = /home/jan/.cache/Nuitka/ccache
+[2023-11-11T19:17:05.133669 12396] Config: (default) compiler = 
+[2023-11-11T19:17:05.133669 12396] Config: (default) compiler_check = mtime
+[2023-11-11T19:17:05.133669 12396] Config: (default) compiler_type = auto
+[2023-11-11T19:17:05.133669 12396] Config: (default) compression = true
+[2023-11-11T19:17:05.133669 12396] Config: (default) compression_level = 0
+[2023-11-11T19:17:05.133669 12396] Config: (default) cpp_extension = 
+[2023-11-11T19:17:05.133669 12396] Config: (default) debug = false
+[2023-11-11T19:17:05.133669 12396] Config: (default) debug_dir = 
+[2023-11-11T19:17:05.133669 12396] Config: (default) depend_mode = false
+[2023-11-11T19:17:05.133669 12396] Config: (default) direct_mode = true
+[2023-11-11T19:17:05.133669 12396] Config: (default) disable = false
+[2023-11-11T19:17:05.133669 12396] Config: (default) extra_files_to_hash = 
+[2023-11-11T19:17:05.133669 12396] Config: (default) file_clone = false
+[2023-11-11T19:17:05.133669 12396] Config: (default) hard_link = false
+[2023-11-11T19:17:05.133669 12396] Config: (default) hash_dir = true
+[2023-11-11T19:17:05.133669 12396] Config: (default) ignore_headers_in_manifest = 
+[2023-11-11T19:17:05.133669 12396] Config: (default) ignore_options = 
+[2023-11-11T19:17:05.133669 12396] Config: (default) inode_cache = false
+[2023-11-11T19:17:05.133669 12396] Config: (default) keep_comments_cpp = false
+[2023-11-11T19:17:05.133669 12396] Config: (default) limit_multiple = 0.8
+[2023-11-11T19:17:05.133669 12396] Config: (environment) log_file = /home/jan/Plocha/freetime_scripts/jidelakova_ruleta/final_recommender/dish_recommender_2.build/ccache-12365.txt
+[2023-11-11T19:17:05.133669 12396] Config: (default) max_files = 0
+[2023-11-11T19:17:05.133669 12396] Config: (default) max_size = 5.0G
+[2023-11-11T19:17:05.133669 12396] Config: (default) namespace = 
+[2023-11-11T19:17:05.133669 12396] Config: (default) path = 
+[2023-11-11T19:17:05.133669 12396] Config: (default) pch_external_checksum = false
+[2023-11-11T19:17:05.133669 12396] Config: (default) prefix_command = 
+[2023-11-11T19:17:05.133669 12396] Config: (default) prefix_command_cpp = 
+[2023-11-11T19:17:05.133669 12396] Config: (default) read_only = false
+[2023-11-11T19:17:05.133669 12396] Config: (default) read_only_direct = false
+[2023-11-11T19:17:05.133669 12396] Config: (default) recache = false
+[2023-11-11T19:17:05.133669 12396] Config: (default) reshare = false
+[2023-11-11T19:17:05.133669 12396] Config: (default) run_second_cpp = true
+[2023-11-11T19:17:05.133669 12396] Config: (default) secondary_storage = 
+[2023-11-11T19:17:05.133669 12396] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-11-11T19:17:05.133669 12396] Config: (default) stats = true
+[2023-11-11T19:17:05.133669 12396] Config: (default) stats_log = 
+[2023-11-11T19:17:05.133669 12396] Config: (default) temporary_dir = /run/user/1000/ccache-tmp
+[2023-11-11T19:17:05.133669 12396] Config: (default) umask = 
+[2023-11-11T19:17:05.133732 12396] Command line: /usr/bin/ccache /home/jan/anaconda3/bin/x86_64-conda-linux-gnu-cc -o module.__main__.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jan/anaconda3/include -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jan/anaconda3/include -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -DNUITKA_FILE_REFERENCE_ORIGINAL_MODE -I/home/jan/anaconda3/include/python3.9 -I. -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/include -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/static_src module.__main__.c
+[2023-11-11T19:17:05.133744 12396] Hostname: srot
+[2023-11-11T19:17:05.133747 12396] Working directory: /home/jan/Plocha/freetime_scripts/jidelakova_ruleta/final_recommender/dish_recommender_2.build
+[2023-11-11T19:17:05.133750 12396] Compiler type: gcc
+[2023-11-11T19:17:05.133836 12396] Source file: module.__main__.c
+[2023-11-11T19:17:05.133841 12396] Object file: module.__main__.o
+[2023-11-11T19:17:05.133854 12396] Trying direct lookup
+[2023-11-11T19:17:05.134282 12396] No eee7vn7g57fnmdomk8qkjspdnufc3et96 in primary storage
+[2023-11-11T19:17:05.134341 12396] Running preprocessor
+[2023-11-11T19:17:05.134349 12396] Executing /home/jan/anaconda3/bin/x86_64-conda-linux-gnu-cc -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -O2 -isystem /home/jan/anaconda3/include -DNDEBUG -D_FORTIFY_SOURCE=2 -isystem /home/jan/anaconda3/include -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -DNUITKA_FILE_REFERENCE_ORIGINAL_MODE -I/home/jan/anaconda3/include/python3.9 -I. -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/include -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/static_src -E module.__main__.c
+[2023-11-11T19:17:05.175154 12387] Got result key from preprocessor
+[2023-11-11T19:17:05.175184 12387] No e3617nsc7ogmadr0467v8t2bkff7op38q in primary storage
+[2023-11-11T19:17:05.175192 12387] Running real compiler
+[2023-11-11T19:17:05.175228 12387] Executing /home/jan/anaconda3/bin/x86_64-conda-linux-gnu-cc -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -O2 -isystem /home/jan/anaconda3/include -DNDEBUG -D_FORTIFY_SOURCE=2 -isystem /home/jan/anaconda3/include -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -DNUITKA_FILE_REFERENCE_ORIGINAL_MODE -I/home/jan/anaconda3/include/python3.9 -I. -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/include -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/static_src -c -fdiagnostics-color -o __loader.o __loader.c
+[2023-11-11T19:17:05.190110 12376] Got result key from preprocessor
+[2023-11-11T19:17:05.190149 12376] No f2aesgg0c1320bbcn3r8b3po0tfc0r9og in primary storage
+[2023-11-11T19:17:05.190157 12376] Running real compiler
+[2023-11-11T19:17:05.190192 12376] Executing /home/jan/anaconda3/bin/x86_64-conda-linux-gnu-cc -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -O2 -isystem /home/jan/anaconda3/include -DNDEBUG -D_FORTIFY_SOURCE=2 -isystem /home/jan/anaconda3/include -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -DNUITKA_FILE_REFERENCE_ORIGINAL_MODE -I/home/jan/anaconda3/include/python3.9 -I. -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/include -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/static_src -c -fdiagnostics-color -o __constants.o __constants.c
+[2023-11-11T19:17:05.194760 12383] Got result key from preprocessor
+[2023-11-11T19:17:05.194793 12383] No fc6enc1dr923d9eou62djm8u8jf39feuk in primary storage
+[2023-11-11T19:17:05.194801 12383] Running real compiler
+[2023-11-11T19:17:05.194841 12383] Executing /home/jan/anaconda3/bin/x86_64-conda-linux-gnu-cc -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -O2 -isystem /home/jan/anaconda3/include -DNDEBUG -D_FORTIFY_SOURCE=2 -isystem /home/jan/anaconda3/include -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -DNUITKA_FILE_REFERENCE_ORIGINAL_MODE -I/home/jan/anaconda3/include/python3.9 -I. -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/include -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/static_src -c -fdiagnostics-color -o __helpers.o __helpers.c
+[2023-11-11T19:17:05.202581 12396] Got result key from preprocessor
+[2023-11-11T19:17:05.202618 12396] No daefspank4bggeo4loql0vps3i04r5vv0 in primary storage
+[2023-11-11T19:17:05.202626 12396] Running real compiler
+[2023-11-11T19:17:05.202659 12396] Executing /home/jan/anaconda3/bin/x86_64-conda-linux-gnu-cc -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -O2 -isystem /home/jan/anaconda3/include -DNDEBUG -D_FORTIFY_SOURCE=2 -isystem /home/jan/anaconda3/include -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -DNUITKA_FILE_REFERENCE_ORIGINAL_MODE -I/home/jan/anaconda3/include/python3.9 -I. -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/include -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/static_src -c -fdiagnostics-color -o module.__main__.o module.__main__.c
+[2023-11-11T19:17:05.289948 12383] Using default compression level 1
+[2023-11-11T19:17:05.290035 12383] Storing result file __helpers.o
+[2023-11-11T19:17:05.290042 12383] Storing embedded file #0 .o (936 bytes) from __helpers.o
+[2023-11-11T19:17:05.290150 12383] Stored fc6enc1dr923d9eou62djm8u8jf39feuk in primary storage (/home/jan/.cache/Nuitka/ccache/f/c/6enc1dr923d9eou62djm8u8jf39feukR)
+[2023-11-11T19:17:05.290229 12383] Adding result key to /home/jan/.cache/Nuitka/ccache/7/3/24n6l1rgonns93obtaaf25cdp5cpe3aM
+[2023-11-11T19:17:05.290815 12383] Using default compression level 1
+[2023-11-11T19:17:05.291222 12383] Stored 7324n6l1rgonns93obtaaf25cdp5cpe3a in primary storage (/home/jan/.cache/Nuitka/ccache/7/3/24n6l1rgonns93obtaaf25cdp5cpe3aM)
+[2023-11-11T19:17:05.291266 12383] Result: cache_miss
+[2023-11-11T19:17:05.291271 12383] Result: direct_cache_miss
+[2023-11-11T19:17:05.291273 12383] Result: preprocessed_cache_miss
+[2023-11-11T19:17:05.291276 12383] Result: primary_storage_miss
+[2023-11-11T19:17:05.291304 12383] Acquired lock /home/jan/.cache/Nuitka/ccache/7/stats.lock
+[2023-11-11T19:17:05.291399 12383] Releasing lock /home/jan/.cache/Nuitka/ccache/7/stats.lock
+[2023-11-11T19:17:05.291416 12383] Unlink /home/jan/.cache/Nuitka/ccache/7/stats.lock
+[2023-11-11T19:17:05.291435 12383] Acquired lock /home/jan/.cache/Nuitka/ccache/f/stats.lock
+[2023-11-11T19:17:05.291483 12383] Releasing lock /home/jan/.cache/Nuitka/ccache/f/stats.lock
+[2023-11-11T19:17:05.291496 12383] Unlink /home/jan/.cache/Nuitka/ccache/f/stats.lock
+[2023-11-11T19:17:05.291506 12383] Unlink /run/user/1000/ccache-tmp/tmp.stderr.p39wXz
+[2023-11-11T19:17:05.291516 12383] Unlink /run/user/1000/ccache-tmp/tmp.stdout.WlrZPt
+[2023-11-11T19:17:05.291521 12383] Unlink /run/user/1000/ccache-tmp/tmp.cpp_stderr.u9ZCXK
+[2023-11-11T19:17:05.291526 12383] Unlink /run/user/1000/ccache-tmp/tmp.cpp_stdout.Yhfi0Z.i
+[2023-11-11T19:17:05.291594 12383] Unlink /run/user/1000/ccache-tmp/tmp.cpp_stdout.Yhfi0Z
+[2023-11-11T19:17:05.304226 12413] === CCACHE 4.5.1 STARTED =========================================
+[2023-11-11T19:17:05.304226 12413] Config: (default) absolute_paths_in_stderr = false
+[2023-11-11T19:17:05.304226 12413] Config: (default) base_dir = 
+[2023-11-11T19:17:05.304226 12413] Config: (environment) cache_dir = /home/jan/.cache/Nuitka/ccache
+[2023-11-11T19:17:05.304226 12413] Config: (default) compiler = 
+[2023-11-11T19:17:05.304226 12413] Config: (default) compiler_check = mtime
+[2023-11-11T19:17:05.304226 12413] Config: (default) compiler_type = auto
+[2023-11-11T19:17:05.304226 12413] Config: (default) compression = true
+[2023-11-11T19:17:05.304226 12413] Config: (default) compression_level = 0
+[2023-11-11T19:17:05.304226 12413] Config: (default) cpp_extension = 
+[2023-11-11T19:17:05.304226 12413] Config: (default) debug = false
+[2023-11-11T19:17:05.304226 12413] Config: (default) debug_dir = 
+[2023-11-11T19:17:05.304226 12413] Config: (default) depend_mode = false
+[2023-11-11T19:17:05.304226 12413] Config: (default) direct_mode = true
+[2023-11-11T19:17:05.304226 12413] Config: (default) disable = false
+[2023-11-11T19:17:05.304226 12413] Config: (default) extra_files_to_hash = 
+[2023-11-11T19:17:05.304226 12413] Config: (default) file_clone = false
+[2023-11-11T19:17:05.304226 12413] Config: (default) hard_link = false
+[2023-11-11T19:17:05.304226 12413] Config: (default) hash_dir = true
+[2023-11-11T19:17:05.304226 12413] Config: (default) ignore_headers_in_manifest = 
+[2023-11-11T19:17:05.304226 12413] Config: (default) ignore_options = 
+[2023-11-11T19:17:05.304226 12413] Config: (default) inode_cache = false
+[2023-11-11T19:17:05.304226 12413] Config: (default) keep_comments_cpp = false
+[2023-11-11T19:17:05.304226 12413] Config: (default) limit_multiple = 0.8
+[2023-11-11T19:17:05.304226 12413] Config: (environment) log_file = /home/jan/Plocha/freetime_scripts/jidelakova_ruleta/final_recommender/dish_recommender_2.build/ccache-12365.txt
+[2023-11-11T19:17:05.304226 12413] Config: (default) max_files = 0
+[2023-11-11T19:17:05.304226 12413] Config: (default) max_size = 5.0G
+[2023-11-11T19:17:05.304226 12413] Config: (default) namespace = 
+[2023-11-11T19:17:05.304226 12413] Config: (default) path = 
+[2023-11-11T19:17:05.304226 12413] Config: (default) pch_external_checksum = false
+[2023-11-11T19:17:05.304226 12413] Config: (default) prefix_command = 
+[2023-11-11T19:17:05.304226 12413] Config: (default) prefix_command_cpp = 
+[2023-11-11T19:17:05.304226 12413] Config: (default) read_only = false
+[2023-11-11T19:17:05.304226 12413] Config: (default) read_only_direct = false
+[2023-11-11T19:17:05.304226 12413] Config: (default) recache = false
+[2023-11-11T19:17:05.304226 12413] Config: (default) reshare = false
+[2023-11-11T19:17:05.304226 12413] Config: (default) run_second_cpp = true
+[2023-11-11T19:17:05.304226 12413] Config: (default) secondary_storage = 
+[2023-11-11T19:17:05.304226 12413] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-11-11T19:17:05.304226 12413] Config: (default) stats = true
+[2023-11-11T19:17:05.304226 12413] Config: (default) stats_log = 
+[2023-11-11T19:17:05.304226 12413] Config: (default) temporary_dir = /run/user/1000/ccache-tmp
+[2023-11-11T19:17:05.304226 12413] Config: (default) umask = 
+[2023-11-11T19:17:05.304296 12413] Command line: /usr/bin/ccache /home/jan/anaconda3/bin/x86_64-conda-linux-gnu-cc -o static_src/MainProgram.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jan/anaconda3/include -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jan/anaconda3/include -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -DNUITKA_FILE_REFERENCE_ORIGINAL_MODE -I/home/jan/anaconda3/include/python3.9 -I. -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/include -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/static_src static_src/MainProgram.c
+[2023-11-11T19:17:05.304311 12413] Hostname: srot
+[2023-11-11T19:17:05.304315 12413] Working directory: /home/jan/Plocha/freetime_scripts/jidelakova_ruleta/final_recommender/dish_recommender_2.build
+[2023-11-11T19:17:05.304318 12413] Compiler type: gcc
+[2023-11-11T19:17:05.304415 12413] Source file: static_src/MainProgram.c
+[2023-11-11T19:17:05.304421 12413] Object file: static_src/MainProgram.o
+[2023-11-11T19:17:05.304434 12413] Trying direct lookup
+[2023-11-11T19:17:05.304546 12413] No d2909h11djhlr3lp13g0dkmubfn4vol7o in primary storage
+[2023-11-11T19:17:05.304609 12413] Running preprocessor
+[2023-11-11T19:17:05.304618 12413] Executing /home/jan/anaconda3/bin/x86_64-conda-linux-gnu-cc -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -O2 -isystem /home/jan/anaconda3/include -DNDEBUG -D_FORTIFY_SOURCE=2 -isystem /home/jan/anaconda3/include -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -DNUITKA_FILE_REFERENCE_ORIGINAL_MODE -I/home/jan/anaconda3/include/python3.9 -I. -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/include -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/static_src -E static_src/MainProgram.c
+[2023-11-11T19:17:05.325224 12376] Using default compression level 1
+[2023-11-11T19:17:05.325349 12376] Storing result file __constants.o
+[2023-11-11T19:17:05.325359 12376] Storing embedded file #0 .o (5672 bytes) from __constants.o
+[2023-11-11T19:17:05.325642 12376] Stored f2aesgg0c1320bbcn3r8b3po0tfc0r9og in primary storage (/home/jan/.cache/Nuitka/ccache/f/2/aesgg0c1320bbcn3r8b3po0tfc0r9ogR)
+[2023-11-11T19:17:05.325683 12376] Adding result key to /home/jan/.cache/Nuitka/ccache/5/f/803s0i6hjlgrk0hhk0heiki4edcuiv0M
+[2023-11-11T19:17:05.326304 12376] Using default compression level 1
+[2023-11-11T19:17:05.326757 12376] Stored 5f803s0i6hjlgrk0hhk0heiki4edcuiv0 in primary storage (/home/jan/.cache/Nuitka/ccache/5/f/803s0i6hjlgrk0hhk0heiki4edcuiv0M)
+[2023-11-11T19:17:05.326830 12376] Result: cache_miss
+[2023-11-11T19:17:05.326835 12376] Result: direct_cache_miss
+[2023-11-11T19:17:05.326838 12376] Result: preprocessed_cache_miss
+[2023-11-11T19:17:05.326840 12376] Result: primary_storage_miss
+[2023-11-11T19:17:05.326868 12376] Acquired lock /home/jan/.cache/Nuitka/ccache/5/stats.lock
+[2023-11-11T19:17:05.326964 12376] Releasing lock /home/jan/.cache/Nuitka/ccache/5/stats.lock
+[2023-11-11T19:17:05.326980 12376] Unlink /home/jan/.cache/Nuitka/ccache/5/stats.lock
+[2023-11-11T19:17:05.326999 12376] Acquired lock /home/jan/.cache/Nuitka/ccache/f/stats.lock
+[2023-11-11T19:17:05.327092 12376] Releasing lock /home/jan/.cache/Nuitka/ccache/f/stats.lock
+[2023-11-11T19:17:05.327116 12376] Unlink /home/jan/.cache/Nuitka/ccache/f/stats.lock
+[2023-11-11T19:17:05.327127 12376] Unlink /run/user/1000/ccache-tmp/tmp.stderr.LOtxTz
+[2023-11-11T19:17:05.327132 12376] Unlink /run/user/1000/ccache-tmp/tmp.stdout.lYDZSh
+[2023-11-11T19:17:05.327138 12376] Unlink /run/user/1000/ccache-tmp/tmp.cpp_stderr.3pHPHK
+[2023-11-11T19:17:05.327143 12376] Unlink /run/user/1000/ccache-tmp/tmp.cpp_stdout.oTxJZn.i
+[2023-11-11T19:17:05.327220 12376] Unlink /run/user/1000/ccache-tmp/tmp.cpp_stdout.oTxJZn
+[2023-11-11T19:17:05.337290 12387] Using default compression level 1
+[2023-11-11T19:17:05.337368 12387] Storing result file __loader.o
+[2023-11-11T19:17:05.337375 12387] Storing embedded file #0 .o (3376 bytes) from __loader.o
+[2023-11-11T19:17:05.337508 12387] Stored e3617nsc7ogmadr0467v8t2bkff7op38q in primary storage (/home/jan/.cache/Nuitka/ccache/e/3/617nsc7ogmadr0467v8t2bkff7op38qR)
+[2023-11-11T19:17:05.337594 12387] Adding result key to /home/jan/.cache/Nuitka/ccache/0/2/543hi61uqs8skok388iakb33r1ltv52M
+[2023-11-11T19:17:05.337978 12387] Using default compression level 1
+[2023-11-11T19:17:05.338265 12387] Stored 02543hi61uqs8skok388iakb33r1ltv52 in primary storage (/home/jan/.cache/Nuitka/ccache/0/2/543hi61uqs8skok388iakb33r1ltv52M)
+[2023-11-11T19:17:05.338306 12387] Result: cache_miss
+[2023-11-11T19:17:05.338310 12387] Result: direct_cache_miss
+[2023-11-11T19:17:05.338313 12387] Result: preprocessed_cache_miss
+[2023-11-11T19:17:05.338315 12387] Result: primary_storage_miss
+[2023-11-11T19:17:05.338343 12387] Acquired lock /home/jan/.cache/Nuitka/ccache/0/stats.lock
+[2023-11-11T19:17:05.338435 12387] Releasing lock /home/jan/.cache/Nuitka/ccache/0/stats.lock
+[2023-11-11T19:17:05.338450 12387] Unlink /home/jan/.cache/Nuitka/ccache/0/stats.lock
+[2023-11-11T19:17:05.338468 12387] Acquired lock /home/jan/.cache/Nuitka/ccache/e/stats.lock
+[2023-11-11T19:17:05.338515 12387] Releasing lock /home/jan/.cache/Nuitka/ccache/e/stats.lock
+[2023-11-11T19:17:05.338527 12387] Unlink /home/jan/.cache/Nuitka/ccache/e/stats.lock
+[2023-11-11T19:17:05.338537 12387] Unlink /run/user/1000/ccache-tmp/tmp.stderr.yW7KC4
+[2023-11-11T19:17:05.338542 12387] Unlink /run/user/1000/ccache-tmp/tmp.stdout.SXFlgh
+[2023-11-11T19:17:05.338548 12387] Unlink /run/user/1000/ccache-tmp/tmp.cpp_stderr.FOCWZH
+[2023-11-11T19:17:05.338552 12387] Unlink /run/user/1000/ccache-tmp/tmp.cpp_stdout.nlcpdk.i
+[2023-11-11T19:17:05.338600 12387] Unlink /run/user/1000/ccache-tmp/tmp.cpp_stdout.nlcpdk
+[2023-11-11T19:17:05.386471 12413] Got result key from preprocessor
+[2023-11-11T19:17:05.386509 12413] No 093agj0e56hmod2dueoamtf470lb13ko2 in primary storage
+[2023-11-11T19:17:05.386518 12413] Running real compiler
+[2023-11-11T19:17:05.386556 12413] Executing /home/jan/anaconda3/bin/x86_64-conda-linux-gnu-cc -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -O2 -isystem /home/jan/anaconda3/include -DNDEBUG -D_FORTIFY_SOURCE=2 -isystem /home/jan/anaconda3/include -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -DNUITKA_FILE_REFERENCE_ORIGINAL_MODE -I/home/jan/anaconda3/include/python3.9 -I. -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/include -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/static_src -c -fdiagnostics-color -o static_src/MainProgram.o static_src/MainProgram.c
+[2023-11-11T19:17:05.440554 12421] === CCACHE 4.5.1 STARTED =========================================
+[2023-11-11T19:17:05.440554 12421] Config: (default) absolute_paths_in_stderr = false
+[2023-11-11T19:17:05.440554 12421] Config: (default) base_dir = 
+[2023-11-11T19:17:05.440554 12421] Config: (environment) cache_dir = /home/jan/.cache/Nuitka/ccache
+[2023-11-11T19:17:05.440554 12421] Config: (default) compiler = 
+[2023-11-11T19:17:05.440554 12421] Config: (default) compiler_check = mtime
+[2023-11-11T19:17:05.440554 12421] Config: (default) compiler_type = auto
+[2023-11-11T19:17:05.440554 12421] Config: (default) compression = true
+[2023-11-11T19:17:05.440554 12421] Config: (default) compression_level = 0
+[2023-11-11T19:17:05.440554 12421] Config: (default) cpp_extension = 
+[2023-11-11T19:17:05.440554 12421] Config: (default) debug = false
+[2023-11-11T19:17:05.440554 12421] Config: (default) debug_dir = 
+[2023-11-11T19:17:05.440554 12421] Config: (default) depend_mode = false
+[2023-11-11T19:17:05.440554 12421] Config: (default) direct_mode = true
+[2023-11-11T19:17:05.440554 12421] Config: (default) disable = false
+[2023-11-11T19:17:05.440554 12421] Config: (default) extra_files_to_hash = 
+[2023-11-11T19:17:05.440554 12421] Config: (default) file_clone = false
+[2023-11-11T19:17:05.440554 12421] Config: (default) hard_link = false
+[2023-11-11T19:17:05.440554 12421] Config: (default) hash_dir = true
+[2023-11-11T19:17:05.440554 12421] Config: (default) ignore_headers_in_manifest = 
+[2023-11-11T19:17:05.440554 12421] Config: (default) ignore_options = 
+[2023-11-11T19:17:05.440554 12421] Config: (default) inode_cache = false
+[2023-11-11T19:17:05.440554 12421] Config: (default) keep_comments_cpp = false
+[2023-11-11T19:17:05.440554 12421] Config: (default) limit_multiple = 0.8
+[2023-11-11T19:17:05.440554 12421] Config: (environment) log_file = /home/jan/Plocha/freetime_scripts/jidelakova_ruleta/final_recommender/dish_recommender_2.build/ccache-12365.txt
+[2023-11-11T19:17:05.440554 12421] Config: (default) max_files = 0
+[2023-11-11T19:17:05.440554 12421] Config: (default) max_size = 5.0G
+[2023-11-11T19:17:05.440554 12421] Config: (default) namespace = 
+[2023-11-11T19:17:05.440554 12421] Config: (default) path = 
+[2023-11-11T19:17:05.440554 12421] Config: (default) pch_external_checksum = false
+[2023-11-11T19:17:05.440554 12421] Config: (default) prefix_command = 
+[2023-11-11T19:17:05.440554 12421] Config: (default) prefix_command_cpp = 
+[2023-11-11T19:17:05.440554 12421] Config: (default) read_only = false
+[2023-11-11T19:17:05.440554 12421] Config: (default) read_only_direct = false
+[2023-11-11T19:17:05.440554 12421] Config: (default) recache = false
+[2023-11-11T19:17:05.440554 12421] Config: (default) reshare = false
+[2023-11-11T19:17:05.440554 12421] Config: (default) run_second_cpp = true
+[2023-11-11T19:17:05.440554 12421] Config: (default) secondary_storage = 
+[2023-11-11T19:17:05.440554 12421] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-11-11T19:17:05.440554 12421] Config: (default) stats = true
+[2023-11-11T19:17:05.440554 12421] Config: (default) stats_log = 
+[2023-11-11T19:17:05.440554 12421] Config: (default) temporary_dir = /run/user/1000/ccache-tmp
+[2023-11-11T19:17:05.440554 12421] Config: (default) umask = 
+[2023-11-11T19:17:05.440622 12421] Command line: /usr/bin/ccache /home/jan/anaconda3/bin/x86_64-conda-linux-gnu-cc -o static_src/CompiledFunctionType.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/jan/anaconda3/include -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /home/jan/anaconda3/include -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -DNUITKA_FILE_REFERENCE_ORIGINAL_MODE -I/home/jan/anaconda3/include/python3.9 -I. -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/include -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/static_src static_src/CompiledFunctionType.c
+[2023-11-11T19:17:05.440639 12421] Hostname: srot
+[2023-11-11T19:17:05.440642 12421] Working directory: /home/jan/Plocha/freetime_scripts/jidelakova_ruleta/final_recommender/dish_recommender_2.build
+[2023-11-11T19:17:05.440645 12421] Compiler type: gcc
+[2023-11-11T19:17:05.440769 12421] Source file: static_src/CompiledFunctionType.c
+[2023-11-11T19:17:05.440776 12421] Object file: static_src/CompiledFunctionType.o
+[2023-11-11T19:17:05.440788 12421] Trying direct lookup
+[2023-11-11T19:17:05.440954 12421] No af3f9pnl1lb7paheb5bta45aqlveao1mk in primary storage
+[2023-11-11T19:17:05.441017 12421] Running preprocessor
+[2023-11-11T19:17:05.441025 12421] Executing /home/jan/anaconda3/bin/x86_64-conda-linux-gnu-cc -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -O2 -isystem /home/jan/anaconda3/include -DNDEBUG -D_FORTIFY_SOURCE=2 -isystem /home/jan/anaconda3/include -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -DNUITKA_FILE_REFERENCE_ORIGINAL_MODE -I/home/jan/anaconda3/include/python3.9 -I. -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/include -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/static_src -E static_src/CompiledFunctionType.c
+[2023-11-11T19:17:05.540294 12413] Using default compression level 1
+[2023-11-11T19:17:05.540381 12413] Storing result file static_src/MainProgram.o
+[2023-11-11T19:17:05.540390 12413] Storing embedded file #0 .o (10600 bytes) from static_src/MainProgram.o
+[2023-11-11T19:17:05.540572 12413] Stored 093agj0e56hmod2dueoamtf470lb13ko2 in primary storage (/home/jan/.cache/Nuitka/ccache/0/9/3agj0e56hmod2dueoamtf470lb13ko2R)
+[2023-11-11T19:17:05.540602 12413] Adding result key to /home/jan/.cache/Nuitka/ccache/d/2/909h11djhlr3lp13g0dkmubfn4vol7oM
+[2023-11-11T19:17:05.541276 12413] Using default compression level 1
+[2023-11-11T19:17:05.541704 12413] Stored d2909h11djhlr3lp13g0dkmubfn4vol7o in primary storage (/home/jan/.cache/Nuitka/ccache/d/2/909h11djhlr3lp13g0dkmubfn4vol7oM)
+[2023-11-11T19:17:05.541775 12413] Result: cache_miss
+[2023-11-11T19:17:05.541781 12413] Result: direct_cache_miss
+[2023-11-11T19:17:05.541784 12413] Result: preprocessed_cache_miss
+[2023-11-11T19:17:05.541786 12413] Result: primary_storage_miss
+[2023-11-11T19:17:05.541817 12413] Acquired lock /home/jan/.cache/Nuitka/ccache/d/stats.lock
+[2023-11-11T19:17:05.541916 12413] Releasing lock /home/jan/.cache/Nuitka/ccache/d/stats.lock
+[2023-11-11T19:17:05.541933 12413] Unlink /home/jan/.cache/Nuitka/ccache/d/stats.lock
+[2023-11-11T19:17:05.541952 12413] Acquired lock /home/jan/.cache/Nuitka/ccache/0/stats.lock
+[2023-11-11T19:17:05.542049 12413] Releasing lock /home/jan/.cache/Nuitka/ccache/0/stats.lock
+[2023-11-11T19:17:05.542073 12413] Unlink /home/jan/.cache/Nuitka/ccache/0/stats.lock
+[2023-11-11T19:17:05.542085 12413] Unlink /run/user/1000/ccache-tmp/tmp.stderr.2ILddq
+[2023-11-11T19:17:05.542091 12413] Unlink /run/user/1000/ccache-tmp/tmp.stdout.rq7k5g
+[2023-11-11T19:17:05.542097 12413] Unlink /run/user/1000/ccache-tmp/tmp.cpp_stderr.VKIvff
+[2023-11-11T19:17:05.542102 12413] Unlink /run/user/1000/ccache-tmp/tmp.cpp_stdout.HnXkjD.i
+[2023-11-11T19:17:05.542185 12413] Unlink /run/user/1000/ccache-tmp/tmp.cpp_stdout.HnXkjD
+[2023-11-11T19:17:05.653827 12421] Got result key from preprocessor
+[2023-11-11T19:17:05.653869 12421] No d558fobfigfrqeroaan4a8qo5neajta64 in primary storage
+[2023-11-11T19:17:05.653879 12421] Running real compiler
+[2023-11-11T19:17:05.653919 12421] Executing /home/jan/anaconda3/bin/x86_64-conda-linux-gnu-cc -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -O2 -isystem /home/jan/anaconda3/include -DNDEBUG -D_FORTIFY_SOURCE=2 -isystem /home/jan/anaconda3/include -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -DNUITKA_FILE_REFERENCE_ORIGINAL_MODE -I/home/jan/anaconda3/include/python3.9 -I. -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/include -I/home/jan/anaconda3/lib/python3.9/site-packages/nuitka/build/static_src -c -fdiagnostics-color -o static_src/CompiledFunctionType.o static_src/CompiledFunctionType.c
+[2023-11-11T19:17:06.716844 12396] Using default compression level 1
+[2023-11-11T19:17:06.716929 12396] Storing result file module.__main__.o
+[2023-11-11T19:17:06.716937 12396] Storing embedded file #0 .o (122000 bytes) from module.__main__.o
+[2023-11-11T19:17:06.717589 12396] Stored daefspank4bggeo4loql0vps3i04r5vv0 in primary storage (/home/jan/.cache/Nuitka/ccache/d/a/efspank4bggeo4loql0vps3i04r5vv0R)
+[2023-11-11T19:17:06.717622 12396] Adding result key to /home/jan/.cache/Nuitka/ccache/e/e/e7vn7g57fnmdomk8qkjspdnufc3et96M
+[2023-11-11T19:17:06.718211 12396] Using default compression level 1
+[2023-11-11T19:17:06.718624 12396] Stored eee7vn7g57fnmdomk8qkjspdnufc3et96 in primary storage (/home/jan/.cache/Nuitka/ccache/e/e/e7vn7g57fnmdomk8qkjspdnufc3et96M)
+[2023-11-11T19:17:06.718642 12396] Result: cache_miss
+[2023-11-11T19:17:06.718646 12396] Result: direct_cache_miss
+[2023-11-11T19:17:06.718648 12396] Result: preprocessed_cache_miss
+[2023-11-11T19:17:06.718651 12396] Result: primary_storage_miss
+[2023-11-11T19:17:06.718692 12396] Acquired lock /home/jan/.cache/Nuitka/ccache/e/stats.lock
+[2023-11-11T19:17:06.718799 12396] Releasing lock /home/jan/.cache/Nuitka/ccache/e/stats.lock
+[2023-11-11T19:17:06.718825 12396] Unlink /home/jan/.cache/Nuitka/ccache/e/stats.lock
+[2023-11-11T19:17:06.718844 12396] Acquired lock /home/jan/.cache/Nuitka/ccache/d/stats.lock
+[2023-11-11T19:17:06.718926 12396] Releasing lock /home/jan/.cache/Nuitka/ccache/d/stats.lock
+[2023-11-11T19:17:06.718939 12396] Unlink /home/jan/.cache/Nuitka/ccache/d/stats.lock
+[2023-11-11T19:17:06.718960 12396] Unlink /run/user/1000/ccache-tmp/tmp.stderr.F0C8r8
+[2023-11-11T19:17:06.718966 12396] Unlink /run/user/1000/ccache-tmp/tmp.stdout.ibGcLZ
+[2023-11-11T19:17:06.718971 12396] Unlink /run/user/1000/ccache-tmp/tmp.cpp_stderr.GLDmOu
+[2023-11-11T19:17:06.718976 12396] Unlink /run/user/1000/ccache-tmp/tmp.cpp_stdout.bI760Y.i
+[2023-11-11T19:17:06.719081 12396] Unlink /run/user/1000/ccache-tmp/tmp.cpp_stdout.bI760Y
+[2023-11-11T19:17:18.669101 12421] Using default compression level 1
+[2023-11-11T19:17:18.669195 12421] Storing result file static_src/CompiledFunctionType.o
+[2023-11-11T19:17:18.669203 12421] Storing embedded file #0 .o (1389136 bytes) from static_src/CompiledFunctionType.o
+[2023-11-11T19:17:18.673378 12421] Stored d558fobfigfrqeroaan4a8qo5neajta64 in primary storage (/home/jan/.cache/Nuitka/ccache/d/5/58fobfigfrqeroaan4a8qo5neajta64R)
+[2023-11-11T19:17:18.673405 12421] Adding result key to /home/jan/.cache/Nuitka/ccache/a/f/3f9pnl1lb7paheb5bta45aqlveao1mkM
+[2023-11-11T19:17:18.674149 12421] Using default compression level 1
+[2023-11-11T19:17:18.674679 12421] Stored af3f9pnl1lb7paheb5bta45aqlveao1mk in primary storage (/home/jan/.cache/Nuitka/ccache/a/f/3f9pnl1lb7paheb5bta45aqlveao1mkM)
+[2023-11-11T19:17:18.674746 12421] Result: cache_miss
+[2023-11-11T19:17:18.674751 12421] Result: direct_cache_miss
+[2023-11-11T19:17:18.674753 12421] Result: preprocessed_cache_miss
+[2023-11-11T19:17:18.674756 12421] Result: primary_storage_miss
+[2023-11-11T19:17:18.674783 12421] Acquired lock /home/jan/.cache/Nuitka/ccache/a/stats.lock
+[2023-11-11T19:17:18.674873 12421] Releasing lock /home/jan/.cache/Nuitka/ccache/a/stats.lock
+[2023-11-11T19:17:18.674889 12421] Unlink /home/jan/.cache/Nuitka/ccache/a/stats.lock
+[2023-11-11T19:17:18.674906 12421] Acquired lock /home/jan/.cache/Nuitka/ccache/d/stats.lock
+[2023-11-11T19:17:18.675005 12421] Releasing lock /home/jan/.cache/Nuitka/ccache/d/stats.lock
+[2023-11-11T19:17:18.675018 12421] Unlink /home/jan/.cache/Nuitka/ccache/d/stats.lock
+[2023-11-11T19:17:18.675028 12421] Unlink /run/user/1000/ccache-tmp/tmp.stderr.jsoF75
+[2023-11-11T19:17:18.675033 12421] Unlink /run/user/1000/ccache-tmp/tmp.stdout.4SQ3Vh
+[2023-11-11T19:17:18.675039 12421] Unlink /run/user/1000/ccache-tmp/tmp.cpp_stderr.hHWxSp
+[2023-11-11T19:17:18.675043 12421] Unlink /run/user/1000/ccache-tmp/tmp.cpp_stdout.z0NGwu.i
+[2023-11-11T19:17:18.675305 12421] Unlink /run/user/1000/ccache-tmp/tmp.cpp_stdout.z0NGwu
