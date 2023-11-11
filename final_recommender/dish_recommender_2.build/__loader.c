@@ -35,7 +35,7 @@ extern PyObject *modulecode___main__(PyThreadState *tstate, PyObject *, struct N
 static struct Nuitka_MetaPathBasedLoaderEntry meta_path_loader_entries[] = {
     {"__main__", modulecode___main__, 0, 0, NUITKA_TRANSLATED_FLAG
 #if defined(_NUITKA_FREEZER_HAS_FILE_PATH)
-, "/home/jan/Plocha/freetime_scripts/jidelakova_ruleta/final_recommender/dish_recommender_2.py"
+, "/home/jan/Plocha/freetime_scripts/jidelakova_ruleta/final_recommender_source_code/dish_recommender_2.py"
 #endif
 },
     {NULL, NULL, 0, 0, 0}

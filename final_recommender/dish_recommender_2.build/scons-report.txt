@@ -1,6 +1,6 @@
 CC="/usr/bin/ccache" "/home/jan/anaconda3/bin/x86_64-conda-linux-gnu-cc"
 CCACHE_DIR=/home/jan/.cache/Nuitka/ccache
-CCACHE_LOGFILE=/home/jan/Plocha/freetime_scripts/jidelakova_ruleta/final_recommender/dish_recommender_2.build/ccache-12365.txt
+CCACHE_LOGFILE=/home/jan/Plocha/freetime_scripts/jidelakova_ruleta/final_recommender_source_code/dish_recommender_2.build/ccache-17313.txt
 CCCOM=$CC -o $TARGET -c $CFLAGS $CCFLAGS $_CCCOMCOM $SOURCES
 CFILESUFFIX=.c
 CPPDEFINES=['__NUITKA_NO_ASSERT__', '_NUITKA_CONSTANTS_FROM_INCBIN', '_NUITKA_FROZEN=0', '_NUITKA_EXE', 'NUITKA_FILE_REFERENCE_ORIGINAL_MODE']
