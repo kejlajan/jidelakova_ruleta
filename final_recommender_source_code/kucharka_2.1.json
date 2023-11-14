@@ -1,0 +1,175 @@
+{
+    "jidla": {
+        "svickova": {
+            "svickova": {
+                "surky": [
+                    "hovezi",
+                    "smetana",
+                    "celer",
+                    "mrkev",
+                    "cibule"
+                ],
+                "mnozstvi":[
+                	0.5,
+                	0.2,
+                	0.5,
+                	0.5,
+                	0.33
+                ],
+                "postup": "Nakrajime surky, hodime je do hrnce a tak uvarime svickajdu, nebo ne, ja nevim"
+            }
+        },
+        "koprovka": {
+            "koprovka": {
+                "surky": [
+                    "vejce",
+                    "kopr",
+                    "cibule"
+                ],
+                "mnozstvi":[
+                	6,
+                	1,
+                	1
+                ],
+                "postup": "Nakrajime surky, hodime je do hrnce a tak uvarime kopracku, nebo ne, ja nevim"
+            }
+        },
+        "parky": {
+            "parky": {
+                "surky": [
+                    "parky",
+                    "chleba"
+                ],
+                "mnozstvi": [
+                	6,
+                	0.3
+                ],
+                "postup": "Nakrajime chleba, parky hodime do hrnce a za pet minut je hotovo, podavame s kecupem"
+            }
+        },
+    
+        "langose": {
+            "langose": {
+                "surky": [
+                    "mouka_hladka",
+                    "mleko",
+		    "kvasnice",
+		    "syr",
+		    "cesnek",
+		    "kecup"
+                ],
+                "mnozstvi": [
+                	0.5,
+                	0.4,
+			0.021,
+			0.2,
+			2,
+			0.050
+                ],
+                "postup": "Dame kvasnice do mleka, nechame na teplem miste, aby se vytvoril kvasek. Pote pridame hladkou mouku a trochu soli a hnetenim vytvorime testo. Nasledne udelame z testa placky a nechame odlezet, aby trochu nakynuli. Tyto pote smazime na oleji do zlatova. Cesnek prolisujeme do horke vody, natreme na langose a dozdobime kecupem a syrem."
+            }
+        },
+
+        "cinska_polevka": {
+            "cinska_polevka": {
+                "surky": [
+                    "veprova_kotleta",
+                    "zeli",
+		    "mrkev",
+		    "paprika",
+		    "ryzove_nudle"
+                ],
+                "mnozstvi": [
+                	0.4,
+                	0.25,
+			1,
+			1,
+			0.25
+                ],
+                "postup": "Veprove nakrajime na tenke platky a dame varit do cca 1,5 litru vody. Kdyz je maso mekke, pridame mrkev a zeli nakrajené na tenke nudlicky. Papriku teke nakraijime na nudlicky a pridame o neco pozdeji. Kdyz je zelenina hotova, rozmichame dve cajove lzicky solamylu v trose vody a zahustime polevku. Nakonec dochutime soli, octem a sojovou omackou. Servirujeme s uvaronymi ryzovymi nudlemi. Dobrou chut!"
+            }
+        },
+
+        "focaccia": {
+            "focaccia": {
+                "surky": [
+                    "mouka_hladka",
+                    "kvasnice"
+                ],
+                "mnozstvi": [
+                	0.5,
+                	0.21
+                ],
+                "postup":"V mise smichame 400ml vlazne vody s kvasnicemi a pockame az se drozdi rozpusti. Pote postupne pridavame hladkou mouku, dokud nam nevznikne hladke testo. Misu prikryjeme uterkou a nechame na teplem miste kynout. Az bude testo nakynute, posypeme ho trochou mouky a vytvarujeme dve tlustsi placky. Vznikle placky polijeme olejem, posypeme soli a pridame tymian, nebo i rajcata, olivy. Na zaver olej a zdobeni lehce zapracujeme prsty do testa a dame focacciu do vyhrate trouby na 220-250 stupnu Celsia. Peceme cca 10-12 minut, dokud focaccia nema zlatavou barvu. Pote nechame lehce vychladnout, nez zacneme focacciu krat. Dobrou chut!"
+            }
+        },
+
+        "gulas_od_tatinka": {
+            "gulas_od_tatinka": {
+                "surky": [
+                    "hovezi_predni",
+                    "cibule",
+                    "testoviny",
+                    "sadlo",
+                    "mouka_hladka"
+                ],
+                "mnozstvi": [
+                	1,
+                	1,
+                    0.5,
+                    0.025,
+                    0.005
+                ],
+                "postup":"Na sadle osmahneme cibuli nakrajenou na kosticky do svetle hneda, pridame maso, trochu soli a hovezi bujon. Kdyz se maso zatahne, pridame 1/2 pytlikugulasoveho koreni a 1/2 pytliku sladke papriky, trochu pepre a 2 minuty michame (!ne dyl!). Pote zalijeme vodou tesne nad maso a varime (v hrnci to zabere asi 2 hodiny, v papinaku mene). Nakonec zahustime trochou mouky ve vode, dosolime a pridame majoranku. Podavame s uvarenymi testovinami (pripadne chlebem, ci knedlikem) a dozdobime cibuli na pulkolecka. Dobrou chut! "
+            }
+        },
+
+        "cesnecka": {
+            "cesnecka": {
+                "surky": [
+                    "cesnek",
+                    "brambory",
+                    "syr",
+                    "sunka",
+                    "rohlik"
+                ],
+                "mnozstvi": [
+                	4,
+                	0.3,
+                    0.25,
+                    0.25,
+                    1
+                ],
+                "postup":"Dame varit vyvar, nebo zele bujon do 1 litru vody, rozdrtime 3-4 strouzky cesneku, osolime, opeprime, pridame 2 stredni brambory nakrajene na kosticky a varime dokud brambory nezmeknou. Kdyz jsou brambory mekke pridame majoranku a dochutime soli. Behem toho co se polevka vari si nakrajime syr a sunku na drobne kosticky a rohlik osmahneme na kosticky na masle, abychom vytvorili krutony. Polevku podavame se syrem sunkou a krutony. Dobrou chut! "
+            }
+        },
+
+        "zelnice_se_stouchackama_od_maminky": {
+            "zelnice_se_stouchackama_od_maminky": {
+                "surky": [
+                    "sadlo",
+                    "cibule",
+                    "klobasa",
+                    "mouka_hladka",
+                    "mleko",
+                    "smetana",
+                    "brambory"
+                    "zeli_nakladane"
+                ],
+                "mnozstvi": [
+                	0.2,
+                	2,
+                    1,
+                    0.005,
+                    0.1,
+                    0.25,
+                    0.5,
+                    0.64
+                ],
+                "postup":"Polevka: Udela se 1 cibule na kosticky na sadle lehce do zlatova. Pote to zalijeme vodou, pridame kysane zeli, zeleninovy bujon a sul a nechame varit, dokud zeli neni mekke. Kdyz je zeli akorat, prida se klobasa nakrajena na kolecka a zahusti se to trochou mouky v mlece a nechame to provarit. Nakonec pridame smetanu a dochutime soli, cukrem a octem.     Stouchacky: Uvarime brambory. Na sadle osmazime cibulku nakrajenou na drobno do zlatova. Vse pak spolecne sestouchame spolu s trochou sadla a dochutime soli.   Stouchacky podavame prelite zelnici. Dobrou chut! "
+            }
+        }
+    }
+
+
+}
