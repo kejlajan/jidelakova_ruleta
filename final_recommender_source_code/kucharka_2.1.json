@@ -1,0 +1,111 @@
+{
+    "jidla": {
+        "svickova": {
+            "svickova": {
+                "surky": [
+                    "hovezi",
+                    "smetana",
+                    "celer",
+                    "mrkev",
+                    "cibule"
+                ],
+                "mnozstvi":[
+                	0.5,
+                	0.2,
+                	0.5,
+                	0.5,
+                	0.33
+                ],
+                "postup": "Nakrajime surky, hodime je do hrnce a tak uvarime svickajdu, nebo ne, ja nevim"
+            }
+        },
+        "koprovka": {
+            "koprovka": {
+                "surky": [
+                    "vejce",
+                    "kopr",
+                    "cibule"
+                ],
+                "mnozstvi":[
+                	6,
+                	1,
+                	1
+                ],
+                "postup": "Nakrajime surky, hodime je do hrnce a tak uvarime kopracku, nebo ne, ja nevim"
+            }
+        },
+        "parky": {
+            "parky": {
+                "surky": [
+                    "parky",
+                    "chleba"
+                ],
+                "mnozstvi": [
+                	6,
+                	0.3
+                ],
+                "postup": "Nakrajime chleba, parky hodime do hrnce a za pet minut je hotovo, podavame s kecupem"
+            }
+        },
+    
+        "langose": {
+            "langose": {
+                "surky": [
+                    "mouka_hladka",
+                    "mleko",
+		    "kvasnice",
+		    "syr",
+		    "cesnek",
+		    "kecup"
+                ],
+                "mnozstvi": [
+                	0.5,
+                	0.4,
+			0.021,
+			0.2,
+			2,
+			0.050
+                ],
+                "postup": "Dame kvasnice do mleka, nechame na teplem miste, aby se vytvoril kvasek. Pote pridame hladkou mouku a trochu soli a hnetenim vytvorime testo. Nasledne udelame z testa placky a nechame odlezet, aby trochu nakynuli. Tyto pote smazime na oleji do zlatova. Cesnek prolisujeme do horke vody, natreme na langose a dozdobime kecupem a syrem."
+            }
+        },
+
+        "cinska_polevka": {
+            "cinska_polevka": {
+                "surky": [
+                    "veprova_kotleta",
+                    "zeli",
+		    "mrkev",
+		    "paprika",
+		    "bujon_hovezi",
+		    "ryzove_nudle"
+                ],
+                "mnozstvi": [
+                	0.4,
+                	0.25,
+			1,
+			1,
+			1,
+			1
+                ],
+                "postup": "Vepřové nakrájíme na tenké plátky a dáme vařit do cca 1,5 litru vody. Když je maso měkké, přidáme mrkev a zelí nakrájené na tenké nudličky. Papriku teké nakrájíme na nudličky a přidáme o něco později. Když je zelenina hotová, rozmícháme dvě čajové lžičky solamylu v troše vody a zahustíme polévku. Nakonec dochutíme solí, octem a sojovou omáčkou. Servírujeme s uvařenými rýžovými nudlemi. Dobrou chuť!"
+            }
+        },
+
+        "focaccia": {
+            "focaccia": {
+                "surky": [
+                    "mouka_hladka",
+                    "kvasnice"
+                ],
+                "mnozstvi": [
+                	0.5,
+                	0.21
+                ],
+                "postup":"V míse smícháme 400ml vlažné vody s kvasnicemi a počkáme až se droždí rozpustí. Poté postupně přidáváme hladkou mouku, dokud nám nevznikne hladké těsto. Mísu přikryjeme utěrkou a necháme na teplém místě kynout. Až bude těsto nakynuté, posypeme ho trocou mouky a vytvarujeme dvě tlustší placky. Vzniklé placky polijeme olejem, posypeme solí a přidáme tymián, nebo i rajčata, olivy. Na závěr olej a zdobení lehce zapracujeme prsty do těsta a dáme focacciu do vyhřáté trouby na 220-250°C. Pečeme cca 10-12 minut, dokud focaccia nemá zlatavou barvu. Poté necháme lehce vychladnout, než začneme focacciu krájet. Dobrou chuť! "
+            }
+        }
+    }
+
+
+}
