@@ -51,7 +51,7 @@
         "langose": {
             "langose": {
                 "surky": [
-                    "mouka_hladka",
+                    "mouka hladka",
                     "mleko",
 		    "kvasnice",
 		    "syr",
@@ -73,12 +73,12 @@
         "cinska_polevka": {
             "cinska_polevka": {
                 "surky": [
-                    "veprova_kotleta",
+                    "veprova kotleta",
                     "zeli",
 		    "mrkev",
 		    "paprika",
-		    "bujon_hovezi",
-		    "ryzove_nudle"
+		    "bujon hovezi",
+		    "ryzove nudle"
                 ],
                 "mnozstvi": [
                 	0.4,
@@ -94,7 +94,7 @@
         "focaccia": {
             "focaccia": {
                 "surky": [
-                    "mouka_hladka",
+                    "mouka hladka",
                     "kvasnice"
                 ],
                 "mnozstvi": [
@@ -108,11 +108,11 @@
         "gulas_od_tatinka": {
             "gulas_od_tatinka": {
                 "surky": [
-                    "hovezi_predni",
+                    "hovezi predni",
                     "cibule",
                     "testoviny",
                     "sadlo",
-                    "mouka_hladka"
+                    "mouka hladka"
                 ],
                 "mnozstvi": [
                 	1,
@@ -151,11 +151,11 @@
                     "sadlo",
                     "cibule",
                     "klobasa",
-                    "mouka_hladka",
+                    "mouka hladka",
                     "mleko",
                     "smetana",
                     "brambory",
-                    "zeli_nakladane"
+                    "zeli nakladane"
                 ],
                 "mnozstvi": [
                 	0.2,
