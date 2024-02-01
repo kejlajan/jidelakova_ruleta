@@ -1,0 +1,18 @@
+{
+  "food_name": "Spaghetti Bolognese",
+  "food_recipe": "A delicious spaghetti recipe with Bolognese sauce.",
+  "raw_groceries": [
+    "spaghetti",
+    "ground beef",
+    "tomatoes",
+    "onions",
+    "garlic"
+  ],
+  "amount_groceries": [
+    400,
+    300,
+    500,
+    150,
+    3
+  ]
+}
