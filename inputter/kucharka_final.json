@@ -1,5 +1,33 @@
 {
-    "svickova": {
+    "jidla": {
+        "svickova": {
+            "surky": [
+                "mrkev",
+                "celer",
+                "maso"
+            ],
+            "mnozstvi": [
+                1,
+                3,
+                4
+            ],
+            "popis": "Uvarime svickovou"
+        },
+        "koprovka": {
+            "surky": [
+                "brambory",
+                "kopr",
+                "maso"
+            ],
+            "mnozstvi": [
+                2,
+                2,
+                3
+            ],
+            "popis": "Uvarime koprovou"
+        }
+    },
+    "bramboracky": {
         "surky": [
             "mrkev",
             "celer",
@@ -11,5 +39,31 @@
             4
         ],
         "popis": "Uvarime svickovou"
+    },
+    "michana vejce": {
+        "surky": [
+            "mrkev",
+            "celer",
+            "maso"
+        ],
+        "mnozstvi": [
+            1,
+            3,
+            4
+        ],
+        "popis": "Uvarime svickovou"
+    },
+    "svitek": {
+        "surky": [
+            "mrkev",
+            "celer",
+            "maso"
+        ],
+        "mnozstvi": [
+            1,
+            3,
+            4
+        ],
+        "popis": "Uvarime svitek"
     }
-}},
+}
