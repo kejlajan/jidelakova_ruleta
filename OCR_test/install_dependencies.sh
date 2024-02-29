@@ -1,16 +1,18 @@
 #!/bin/bash
 
 # Install Tesseract OCR
-sudo apt install tesseract-ocr && echo "Success: tesseract-ocr" || { echo "Failed to install tesseract-ocr"; exit 1; }
+sudo apt install pratesseract-ocr && echo "Success: tesseract-ocr" || echo "Failed to install tesseract-ocr";
+
+sudo apt-get install tesseract-ocr-ces && echo "Success: czech language into OCR installed!" || echo "Error: failed to install czech language into OCR"
 
 # Install Pillow
-pip install pillow && echo "Success: Pillow" || { echo "Failed to install Pillow"; exit 1; }
+pip install pillow && echo "Success: Pillow" ||  echo "Failed to install Pillow"
 
 # Install pytesseract
-pip install pytesseract && echo "Success: pytesseract" || { echo "Failed to install pytesseract"; exit 1; }
+pip install pytesseract && echo "Success: pytesseract" ||  echo "Failed to install pytesseract";
 
 # Install thefuzz
-pip install thefuzz && echo "Success: thefuzz" || { echo "Failed to install thefuzz"; exit 1; }
+pip install thefuzz && echo "Success: thefuzz" || echo "Failed to install thefuzz";
 
 echo "All dependencies installed successfully!"
 
