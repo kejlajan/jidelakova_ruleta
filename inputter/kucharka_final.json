@@ -121,5 +121,33 @@
             "0.5"
         ],
         "popis": "Chleb\u00ed\u010dek s paprikami -- velice lahodn\u00fd. hod\u00ed se k d\u011btem, nekou\u0161e"
+    },
+    "pozdrav": {
+        "surky": [
+            "banany",
+            "brambory",
+            "bat\u00e1ty"
+        ],
+        "mnozstvi": [
+            "3",
+            "4",
+            "4"
+        ],
+        "popis": "nakraj"
+    },
+    "hovno s makem": {
+        "surky": [
+            "bat\u00e1ty",
+            "chl\u00e9b",
+            "ananas",
+            "okurky poln\u00ed"
+        ],
+        "mnozstvi": [
+            4.0,
+            4.0,
+            6.0,
+            7.0
+        ],
+        "popis": "Ahoj, ahoj, vitejte u dalsiho receptu -- dnes si pripravime blabalbalabalab"
     }
 }
