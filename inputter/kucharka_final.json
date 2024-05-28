@@ -68,21 +68,21 @@
     },
     "toast": {
         "surky": [
-            "chl\u00e9b\u00e1",
-            "m\u00e1slo"
+            "chlébá",
+            "máslo"
         ],
         "mnozstvi": [
             1,
             2
         ],
-        "popis": "sestav\u00edme toast s m\u00e1slem"
+        "popis": "sestavíme toast s máslem"
     },
     "sarakvajda": {
         "surky": [
-            "maso hov\u011bz\u00ed sv\u00ed\u010dkov\u00e1",
-            "sal\u00e1m",
-            "okurky poln\u00ed",
-            "raj\u010data",
+            "maso hovězí svíčková",
+            "salám",
+            "okurky polní",
+            "rajčata",
             "cibule"
         ],
         "mnozstvi": [
@@ -92,14 +92,14 @@
             "0.2",
             "1"
         ],
-        "popis": "Cibulku si nakraj\u00edme a ope\u010deme do zlatova. P\u0159id\u00e1me maso a zasmahneme. "
+        "popis": "Cibulku si nakrajíme a opečeme do zlatova. Přidáme maso a zasmahneme. "
     },
     "blabla": {
         "surky": [
             "hummus",
             "celer",
-            "bat\u00e1ty",
-            "avok\u00e1do"
+            "batáty",
+            "avokádo"
         ],
         "mnozstvi": [
             "0.5",
@@ -109,24 +109,24 @@
         ],
         "popis": "vsechno promichame, sezerem, a pak se poserem"
     },
-    "ahoj, V\u00e1clave": {
+    "ahoj, Václave": {
         "surky": [
-            "chl\u00e9b",
-            "paprika zelen\u00e1",
-            "paprika \u010derven\u00e1"
+            "chléb",
+            "paprika zelená",
+            "paprika červená"
         ],
         "mnozstvi": [
             "0.2",
             "0.5",
             "0.5"
         ],
-        "popis": "Chleb\u00ed\u010dek s paprikami -- velice lahodn\u00fd. hod\u00ed se k d\u011btem, nekou\u0161e"
+        "popis": "Chlebíček s paprikami -- velice lahodný. hodí se k dětem, nekouše"
     },
     "pozdrav": {
         "surky": [
             "banany",
             "brambory",
-            "bat\u00e1ty"
+            "batáty"
         ],
         "mnozstvi": [
             "3",
@@ -137,10 +137,10 @@
     },
     "hovno s makem": {
         "surky": [
-            "bat\u00e1ty",
-            "chl\u00e9b",
+            "batáty",
+            "chléb",
             "ananas",
-            "okurky poln\u00ed"
+            "okurky polní"
         ],
         "mnozstvi": [
             4.0,
@@ -149,5 +149,62 @@
             7.0
         ],
         "popis": "Ahoj, ahoj, vitejte u dalsiho receptu -- dnes si pripravime blabalbalabalab"
+    },
+    "svickova": {
+        "surky": [
+            "batáty",
+            "chléb",
+            "banany"
+        ],
+        "mnozstvi": [
+            4.0,
+            2.0,
+            5.0
+        ],
+        "popis": "Hacky carky nefunguji.."
+    },
+    "sdkjfdskl": {
+        "surky": [
+            "batáty",
+            "batáty",
+            "chléb"
+        ],
+        "mnozstvi": [
+            6.0,
+            4.0,
+            4.0
+        ],
+        "popis": "fsdfjskfhsdjkfhdskj"
+    },
+    "kure": {
+        "surky": [
+            "beam"
+        ],
+        "mnozstvi": [
+            1.0
+        ],
+        "popis": "uvar kure"
+    },
+    "jablicko": {
+        "surky": [
+            "batáty"
+        ],
+        "mnozstvi": [
+            2.0
+        ],
+        "popis": "ahoj"
+    },
+    "kulajda": {
+        "surky": [
+            "batáty",
+            "avokádo",
+            "chléb"
+        ],
+        "mnozstvi": [
+            34.0,
+            34.0,
+            45.0
+        ],
+        "popis": "Nakrajime surky, hodime do hrnce a varime."
     }
 }
